@@ -1,0 +1,41 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Battlefront 2",
+            "cor": "#6BD1FF",
+            "link_extra": {
+              "text": "Epic game",
+              "url": "https://www.ea.com/pt-br/games/starwars/battlefront/star-wars-battlefront-2"
+            }
+          },
+          {
+            "id": 2,
+            "nome": "Fallen Order",
+            "cor": "#00C86F",
+            "link_extra": {
+              "text": "Another very interesting game",
+              "url": "https://www.ea.com/pt-br/games/starwars/jedi-fallen-order"
+            }
+          },
+          {
+            "id": 3,
+            "nome": "The Force Unleashed",
+            "cor": "#9cd33b",
+            "link_extra": {
+              "text": "Old game from the Star Wars universe, had much fun playing it",
+              "url": "https://store.steampowered.com/app/32430/STAR_WARS__The_Force_Unleashed_Ultimate_Sith_Edition/"
+            }
+          },
+          {
+            "id": 4,
+            "nome": "Prequels",
+            "cor": "#f25a5a"
+          },
+          {
+            "id": 5,
+            "nome": "New Trilogy",
+            "cor": "#f00505"
+          }
+    ]
+}
